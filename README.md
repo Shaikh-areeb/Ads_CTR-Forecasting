@@ -3,6 +3,20 @@
 ## 📌 Project Overview  
 This project focuses on forecasting the Click-Through Rate (CTR) for digital advertisements using time-series analysis. By analyzing ad impressions and clicks, we predict engagement trends to help businesses optimize marketing budgets, improve ad targeting, and maximize ROI.  
 
+## Business Context
+Click-Through Rate (CTR) is a key performance metric in digital marketing that measures the effectiveness of advertisements. Accurately forecasting CTR helps advertisers optimize their ad placements, budget allocation, and campaign performance. Since CTR exhibits seasonality and trends, time series forecasting models can be used to predict future CTR values and enhance decision-making.
+
+## Objective 🎯
+The goal of this project is to develop a predictive model that forecasts future CTR based on historical data. The model will help marketing teams anticipate changes in CTR, identify trends, and adjust advertising strategies accordingly.
+
+## Task 📃
+
+- Analyze the distribution of Clicks and Impressions over time.
+- Calculate and visualize the Click-Through Rate (CTR) trend.
+- Identify any patterns or trends in CTR based on day-of-week and other features.
+- Create relevant features for CTR analysis.
+- Build a forecasting model to predict future CTR values.
+
 ## 🛠️ Technologies Used  
 - **Programming:** Python  
 - **Libraries:** Pandas, NumPy, Seaborn, Matplotlib, Statsmodels, Scikit-learn  
