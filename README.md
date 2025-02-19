@@ -32,8 +32,3 @@ This project focuses on forecasting the Click-Through Rate (CTR) for digital adv
    - Identified high and low engagement periods.  
    - Suggested optimal ad budget allocation based on predicted CTR trends.  
 
-## 🚀 How to Run the Project  
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/yourusername/ctr-forecasting.git
-   cd ctr-forecasting
