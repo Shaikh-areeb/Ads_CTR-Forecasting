@@ -1,4 +1,5 @@
 # Ad Click-Through Rate (CTR) Forecasting & Optimization  
+![]()
 
 ## 📌 Project Overview  
 This project focuses on forecasting the Click-Through Rate (CTR) for digital advertisements using time-series analysis. By analyzing ad impressions and clicks, we predict engagement trends to help businesses optimize marketing budgets, improve ad targeting, and maximize ROI.  
@@ -44,5 +45,15 @@ The goal of this project is to develop a predictive model that forecasts future 
 
 4. **Marketing Optimization Strategies**  
    - Identified high and low engagement periods.  
-   - Suggested optimal ad budget allocation based on predicted CTR trends.  
+   - Suggested optimal ad budget allocation based on predicted CTR trends.
+  
+## Insights Images 
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+
 
