@@ -48,12 +48,26 @@ The goal of this project is to develop a predictive model that forecasts future 
    - Suggested optimal ad budget allocation based on predicted CTR trends.
   
 ## Insights Images 
+
+1)
 ![](https://github.com/Shaikh-areeb/Ads_CTR-Forecasting/blob/main/insights%20images/Screenshot%202025-02-22%20025806.png)
+
+2)
 ![]()
+
+3)
 ![]()
+
+4)
 ![]()
+
+5)
 ![]()
+
+6)
 ![]()
+
+7)
 ![]()
 
 
