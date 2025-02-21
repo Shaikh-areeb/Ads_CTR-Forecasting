@@ -1,5 +1,5 @@
 # Ad Click-Through Rate (CTR) Forecasting & Optimization  
-![]()
+![](https://github.com/Shaikh-areeb/Ads_CTR-Forecasting/blob/main/insights%20images/forecasting.jpg)
 
 ## 📌 Project Overview  
 This project focuses on forecasting the Click-Through Rate (CTR) for digital advertisements using time-series analysis. By analyzing ad impressions and clicks, we predict engagement trends to help businesses optimize marketing budgets, improve ad targeting, and maximize ROI.  
