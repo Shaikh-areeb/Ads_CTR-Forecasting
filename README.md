@@ -65,7 +65,7 @@ The goal of this project is to develop a predictive model that forecasts future 
 ![](https://github.com/Shaikh-areeb/Ads_CTR-Forecasting/blob/main/insights%20images/Screenshot%202025-02-22%20030225.png)
 
 6)
-![]()
+![](https://github.com/Shaikh-areeb/Ads_CTR-Forecasting/blob/main/insights%20images/Screenshot%202025-02-22%20030238.png)
 
 7)
 ![]()
